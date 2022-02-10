@@ -13,6 +13,11 @@ public class Demo {
 		System.out.println("Hello m2");
 	}
 	
+		public void m3()
+	{
+		
+		System.out.println("Hello m3");
+	}
 	
 	public static void main(String[] args) {
 
