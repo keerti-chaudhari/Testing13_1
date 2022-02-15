@@ -25,6 +25,11 @@ public class Demo {
 		System.out.println("Hello m4");
 	}
 	
+	public void m5()
+	{
+		
+		System.out.println("Hello m");
+	}
 	public static void main(String[] args) {
 
 		
